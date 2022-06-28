@@ -1,4 +1,4 @@
-# 😃 <b>Hᴇʟʟᴏ ,I Aᴍ Sᴜʀᴀɪ Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Pʀᴏғɪʟᴇ.</b>
+# 😃 Hᴇʟʟᴏ ,I Aᴍ Sᴜʀᴀɪ Wᴇʟᴄᴏᴍᴇ Tᴏ Mʏ Pʀᴏғɪʟᴇ.
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=Samantha-a&color=blueviolet&style=flat)
