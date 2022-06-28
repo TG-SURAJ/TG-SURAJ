@@ -1,4 +1,4 @@
-<h1> <img src="https://github.com/TG-SURAJ/TG-SURAJ/master/resources/hello.png" width="500px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs </h1>
+<h1> <png src="https://github.com/TG-SURAJ/TG-SURAJ/master/resources/hello.png" width="500px"> Hᴇʏ ᴛʜᴇʀᴇ, ᴛʜɪs ɪs ᴀɴᴏɴʏᴍᴏᴜs </h1>
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
  -->    <img align="middle" src="https://profile-counter.glitch.me/AnonymousR1025/count.svg" />
