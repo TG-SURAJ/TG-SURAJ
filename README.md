@@ -15,8 +15,9 @@
 <a href="https://instagram.com/__noughty_legend__/">
   <img align="left" alt="Suraj's's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
 </a>
-<a href="https://t.me/albintko"><img alt="Telegram" src="https://img.shields.io/badge/𝚂𝚄𝚁𝙰𝙹-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
-</p>
+<a href="https://www.facebook.com/sgl.kumar.7/">
+  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
 <a href="https://youtube.com/channel/UCx3Xs6OhfHgoMtQRIegivzA">
   <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="149">
 
