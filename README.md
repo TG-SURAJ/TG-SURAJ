@@ -8,9 +8,11 @@
 </p>
 
 ----
-   𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒
 <p align="center">
- <a href="https://t.me/KingOf_univers">
+<b>𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒</b>
+</p>
+ 
+<a href="https://t.me/KingOf_univers">
    <img align="left" alt="Suraj's Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />
  </a> 
  <a href="https://instagram.com/__noughty_legend__/">
