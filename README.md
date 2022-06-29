@@ -2,8 +2,10 @@
 <div align="center">
 
               
-𝑉𝑖𝑠𝑖𝑡𝑜𝑟𝑠
- 🥰    <img align="middle" src="https://profile-counter.glitch.me/TG-SURAJ/count.svg" />
+# <p align="center">
+<b>𝑉𝑖𝑠𝑖𝑡𝑜𝑟𝑠 🥰</b>
+</p>
+<img align="middle" src="https://profile-counter.glitch.me/TG-SURAJ/count.svg" />
 </p>
 
 ━━━━━━━━━━━━━━━━━━━━
