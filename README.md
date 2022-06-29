@@ -7,6 +7,8 @@
  🥰    <img align="middle" src="https://profile-counter.glitch.me/TG-SURAJ/count.svg" />
 </p>
 
+----
+
 <a href=https://youtube.com/channel/UCx3Xs6OhfHgoMtQRIegivzA><img align="center" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /></a>
 <a href=https://www.instagram.com/__albin__tko__><img align="center" alt="Instagram" width="22px" src="https://unpkg.com/simple-icons@v6/icons/instagram.svg" /></a>
 <p align="center">
