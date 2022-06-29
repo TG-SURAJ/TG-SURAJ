@@ -12,14 +12,16 @@
 <b>𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒</b>
 </p>
  
-<a href="https://t.me/KingOf_univers">
-   <img align="left" alt="Suraj's Telegram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />
+ <a href="https://t.me/KingOf_univers">
+   <img align="left" alt="Suraj's Telegram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />
  </a> 
+ 
  <a href="https://instagram.com/__noughty_legend__/">
-   <img align="left" alt="Suraj's's Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
+   <img align="left" alt="Suraj's's Instagram" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
  </a>
+
  <a href="https://www.facebook.com/profile.php?id=100028592142770">
-   <img align="left" alt="Pawan's Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+   <img align="left" alt="Pawan's Facebook" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
  </a>
 </p>
 
