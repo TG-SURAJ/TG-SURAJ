@@ -8,9 +8,12 @@
 </p>
 
 ----
+
 <p align="center">
 <b>𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒</b>
 </p>
+
+<p align="center">
   <a href="https://t.me/KingOf_univers">
    <img align="left" alt="Suraj's Telegram" width=50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />
  </a> 
