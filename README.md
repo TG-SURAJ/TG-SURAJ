@@ -11,7 +11,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
  # <p align="center">
-<b>𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒</b>
+<b>𝐶𝑜𝑛𝑡𝑎𝑐𝑡 𝑀𝑒 😎</b>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
  # <p align="center">
-𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑢𝑠
+𝐺𝑖𝑡ℎ𝑢𝑏 𝑆𝑡𝑎𝑡𝑢𝑠 🔮
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TG-SURAJ&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SURAJ's Github Stats">
