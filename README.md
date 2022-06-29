@@ -10,10 +10,10 @@
 ----
 
 <a href="https://t.me/KingOf_univers">
-  <img align="left" alt="Suraj's Telegram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Suraj's Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a" /></a>
 <a href="https://instagram.com/__noughty_legend__/">
-  <img align="left" alt="Suraj's's Instagram" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Suraj's's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://t.me/albintko"><img alt="Telegram" src="https://img.shields.io/badge/𝚂𝚄𝚁𝙰𝙹-2CA5E0?style=for-the-badge&logo=telegram&logoColor=green"/></a>
 </p>
