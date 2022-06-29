@@ -18,8 +18,7 @@
 <a href="https://www.facebook.com/profile.php?id=100028592142770">
   <img align="left" alt="Pawan's Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://youtube.com/channel/UCx3Xs6OhfHgoMtQRIegivzA">
-  <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="149">
+----
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=TG-SURAJ&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="SURAJ's Github Stats">
 </br>    
