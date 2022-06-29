@@ -23,6 +23,9 @@
   <a href="https://www.facebook.com/profile.php?id=100028592142770">
    <img align="left" alt="Pawan's Facebook" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
  </a>
+ <a href="https://twitter.com/TGSURAJ1">
+  <img align="left" alt="Pawan's Twitter" width="50px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+ </a>
 </p>
 
 ----
