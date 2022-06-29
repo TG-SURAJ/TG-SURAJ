@@ -9,7 +9,7 @@
 
 ----
 
-<p <a href="https://t.me/KingOf_univers">
+<p<a href="https://t.me/KingOf_univers">
   <img align="left" alt="Suraj's Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />
  </a" /></a>
  <a href="https://instagram.com/__noughty_legend__/">
@@ -17,8 +17,7 @@
  </a>
  <a href="https://www.facebook.com/profile.php?id=100028592142770">
   <img align="left" alt="Pawan's Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
- </a>
-</p>
+ </a></p>
 
 ----
 
