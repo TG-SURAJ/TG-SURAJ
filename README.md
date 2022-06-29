@@ -9,7 +9,7 @@
 
 ----
 
-<p<a href="https://t.me/KingOf_univers">
+<p <a href="https://t.me/KingOf_univers">
   <img align="left" alt="Suraj's Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/telegram.svg" />
  </a" /></a>
  <a href="https://instagram.com/__noughty_legend__/">
