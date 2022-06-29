@@ -22,10 +22,10 @@
    <img align="left" alt="Suraj's's Instagram" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
  </a>
   <a href="https://www.facebook.com/profile.php?id=100028592142770">
-   <img align="left" alt="Pawan's Facebook" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
+   <img align="left" alt="Suraj's Facebook" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
  </a>
   <a href="https://twitter.com/TGSURAJ1">
-  <img align="left" alt="Pawan's Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
+  <img align="left" alt="Suraj's Twitter" width="45px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
  </a>
 </p>
 
