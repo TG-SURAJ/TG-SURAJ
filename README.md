@@ -10,7 +10,7 @@
 ----
 
 <a href="https://t.me/KingOf_univers">
-  <img align="left" alt="Suraj's Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/telegram.svg" />
+  <img align="left" alt="Suraj's Telegram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/telegram.svg" />
 </a" /></a>
 <a href="https://instagram.com/__noughty_legend__/">
   <img align="left" alt="Suraj's's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
