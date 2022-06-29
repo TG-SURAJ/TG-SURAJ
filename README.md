@@ -16,7 +16,7 @@
   <img align="left" alt="Suraj's's Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100028592142770">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+  <img align="left" alt="Pawan's Facebook" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
 <a href="https://youtube.com/channel/UCx3Xs6OhfHgoMtQRIegivzA">
   <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="149">
